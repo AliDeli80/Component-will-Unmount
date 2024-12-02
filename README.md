@@ -20,7 +20,7 @@ To use this project locally, follow these steps:
 
 1. **Clone the repository**:  
 ```bash  
-git clone https://github.com/yourusername/hide-and-show-clock.git  
+git clone https://github.com/AliDeli80/Hide-and-Show-Clock.git  
 cd hide-and-show-clock
 ```
 2. **Install dependencies**:
